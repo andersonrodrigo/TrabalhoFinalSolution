@@ -1,0 +1,4 @@
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\bin\Debug\PortabilidadeHOST.exe
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\bin\Debug\PortabilidadeHOST.pdb
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.exe
+C:\Users\aluno.DEC\Desktop\TrabalhoFinal\TrabalhoFinalSolution\PortabilidadeHOST\obj\x86\Debug\PortabilidadeHOST.pdb
